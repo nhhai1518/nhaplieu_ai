@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Thu thập Dữ liệu Giáo dục Phổ thông",
+  "description": "Ứng dụng chuyên nghiệp dành cho Phòng Giáo dục Phổ thông để thu thập và quản lý danh sách cán bộ, giáo viên với khả năng đồng bộ trực tiếp lên Google Sheets và hỗ trợ thông minh từ Gemini.",
+  "requestFramePermissions": []
+}
